@@ -1,4 +1,4 @@
-# branded-types
+# skills
 
 A curated collection of AI coding agent skills for [skills.sh](https://skills.sh). Each skill teaches AI assistants specialized patterns and best practices they can apply in your codebase.
 
